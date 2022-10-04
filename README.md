@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdityaSharma484
-- 👀 I’m interested in Dvelopment with Java and Game Development
-- 🌱 I’m currently learning Unity2d
-- 💞️ I’m currently studying in 12th standared
+- 👀 Passionate Game Developer and Game Enthusiast
+- 🌱 Working with Unity3d
 - 📫 How to reach me - professionaladitya484@gmail.com
 
 <!---
